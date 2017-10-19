@@ -1,0 +1,20 @@
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.exe.config
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.exe
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.pdb
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.csprojResolveAssemblyReference.cache
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.exe
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.pdb
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.dll
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.pdb
+c:\users\ch.skordas\documents\visual studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.xml
+C:\Users\ch.skordas\Documents\Visual Studio 2017\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.exe.config
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.exe
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\GitHubStarCounter.pdb
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.dll
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.pdb
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\bin\Debug\Octokit.xml
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.exe
+C:\Users\Chris\Desktop\Projects\GitHubStarCounter\GitHubStarCounter\obj\Debug\GitHubStarCounter.pdb
